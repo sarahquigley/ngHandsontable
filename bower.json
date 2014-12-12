@@ -1,11 +1,11 @@
 {
-  "name": "ngHandsontable",
-  "version": "0.5.0",
+  "name": "sq-ngHandsontable",
+  "version": "0.5.1",
   "dependencies": {
     "angular": "~1.2.25",
     "handsontable": "~0.12"
   },
-  "homepage": "https://github.com/handsontable/ngHandsontable",
+  "homepage": "https://github.com/sarahquigley/ngHandsontable",
   "authors": [
     "Marcin Warpechowski <hello@handsontable.com>"
   ],
